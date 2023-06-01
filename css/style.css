@@ -1,0 +1,11 @@
+.contenedor {
+  display: flex;
+  justify-content: space-around;
+}
+.tarjeta {
+  width: 30%;
+  border: 1px solid gray;
+}
+.imagen {
+  width: 100%;
+}
